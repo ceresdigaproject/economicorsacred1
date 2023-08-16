@@ -1,22 +1,18 @@
 field,display_name,browse_link,external_link
 title,Title,
 subject,Subjects,true
-mudra ,Mudra,
+description, Description,
+attribute, Attribute,
 material,Material,
+measurement, Measurement,
+culture, Culture,
+mudra ,Mudra,
+location,Location
 colour, Colour,
 price, Price,
-measurement, Measurement,
 manufactured, Manufactured,
-culture, Culture,
 placement, Placement,
 usage, Usage,
 position, Position,
 emotion, Emotion,
 attribute, Attribute,
-description,Description,
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
