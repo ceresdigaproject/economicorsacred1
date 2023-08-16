@@ -8,7 +8,7 @@ permalink: /material
 cloud-fields: material
 ---
 
-## Browse Material
+## Observations on Material
 
-Use this word cloud visualization to browse material.
-Word size is determined by frequency and all words link to a corresponding collection search.
+It has been observed that the materials of the products sold in the decorative products departments of the markets are cheap.
+However, it has been observed that the quality of the Buddha figures, which decorate the shop windows of the stores and are exhibited in order to attract the attention of the customers, is higher. 
