@@ -1,15 +1,22 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
 subject,Subjects,true
+mudra ,Mudra,
+material,Material,
+colour, Colour,
+price, Price,
+measurement, Measurement,
+manufactured, Manufactured,
+culture, Culture,
+placement, Placement,
+usage, Usage,
+position, Position,
+emotion, Emotion,
+attribute, Attribute,
+description,Description,
 location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
