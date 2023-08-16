@@ -55,10 +55,11 @@ map-cluster: true # true/false, suggested for large collection or with many item
 map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 
 ##########
-# TIMELINE PAGE
+# LOCATIONS PAGE
 #
-year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
-year-nav-increment: 5 # set increments when auto gen nav years
+manufactured-fields: manufactured # set the field to be featured in the cloud
+manufactured-min: 1 # min size for subject cloud, too many terms = slow load time!
+manufactured-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
 # DATA 
