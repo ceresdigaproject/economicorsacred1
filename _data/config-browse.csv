@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name
 subject,Keywords,true,,
 location,Find Spot,true,,by Find Spot
 culture,Culture,true,,
-objectid,,,true,by Object Numbers
+registration_number,,,true,by Image Numbers
