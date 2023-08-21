@@ -1,4 +1,5 @@
 field,display_name,btn,hidden,sort_name
 subject,Keywords,true,,
-location,Find Spot,true,,true,Find_Spot
+location,Find Spot,true,,Find Spot
 culture,Culture,true,,
+registration_number,,,true,Registration Number
