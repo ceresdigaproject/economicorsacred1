@@ -2,5 +2,6 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
 subject,,true
-locations,,true
+location,Location,true
 culture,Culture,true
+format,,false
