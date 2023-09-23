@@ -1,8 +1,8 @@
 field,index,display
 title,true,true
+subject,true,true
+mudra,true,true
+description,true,false
 date,true,false
 creator,true,false
-description,true,true
-subject,true,true
 location,true,false
-price,true,true
