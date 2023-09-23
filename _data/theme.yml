@@ -62,6 +62,14 @@ manufactured-min: 1 # min size for subject cloud, too many terms = slow load tim
 manufactured-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
+# MUDRA PAGE
+#
+mudra-fields: mudra # set the field to be featured in the cloud
+mudra-min: 1 # min size for subject cloud, too many terms = slow load time!
+mudra-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+
+
+##########
 # DATA 
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
