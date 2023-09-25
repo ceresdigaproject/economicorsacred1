@@ -1,8 +1,13 @@
 ---
 title: Economic Perspective
-layout: item
+layout: about
 permalink: /economic.html
-# Look in _includes/feature for options to easily add features to the page
+
+#item-content {
+  max-width: 20em;
+  margin: auto;
+}
+
 ---
 
 # We See Buddhas in Our Daily Life
