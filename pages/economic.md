@@ -2,10 +2,6 @@
 title: Economic Perspective
 layout: about
 permalink: /economic.html
-#container my-4 about-contents {
-  max-width: 20em;
-  margin: auto;
-}
 ---
 
 # We See Buddhas in Our Daily Life
