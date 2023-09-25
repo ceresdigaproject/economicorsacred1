@@ -2,6 +2,7 @@
 title: Economic Perspective
 layout: about
 permalink: /economic.html
+
 ---
 
 # We See Buddhas in Our Daily Life
