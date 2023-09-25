@@ -1,6 +1,6 @@
 ---
 title: Economic Perspective
-layout: about
+layout: item
 permalink: /economic.html
 # Look in _includes/feature for options to easily add features to the page
 ---
