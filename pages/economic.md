@@ -2,6 +2,10 @@
 title: Economic Perspective
 layout: about
 permalink: /economic.html
+#item-content {
+  max-width: 20em;
+  margin: auto;
+}
 ---
 
 #container my-4 about-contents {
