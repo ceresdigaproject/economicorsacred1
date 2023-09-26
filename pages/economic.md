@@ -59,6 +59,8 @@ Mass production of religious objects has made them accessible to all. Formerly i
 
 The commercialization and commodification of religion is not only a modern phenomenon. The medieval Latin church, invented a franchise system for indulgences, a new product that shortened the time spent in purgatory. The pope established a parallel distribution structure involving newly licensed mendicant orders alongside the parochial structure. This resulting competition not only solved the principal-agent problem in respect of agents who were difficult to control when they were far away from Rome, but also maximized the profit for the principal (Schmidtchen/Mayer 1997).
 
+However, in our example, the market and society economize religion. As I understand from my street observations, social media observations and the literature, the desire to make a profit does not originate from Buddhism, but concepts such as meditation, yoga and spirituality, which are actually free, have been commercialized by people. These objects we see in markets or city centers are a reflection of this approach.
+
 ![The Cheapest Supermarkt Penny.jpeg](https://github.com/ceresdigaproject/economicorsacred1/blob/main/assets/img/The%20Cheapest%20Supermarkt%20Penny.jpeg?raw=true)
 
 
