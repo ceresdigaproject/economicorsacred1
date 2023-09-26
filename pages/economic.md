@@ -57,6 +57,8 @@ In the debate about the value of religious materials, Brent Plat noted in 2004 t
 
 Mass production of religious objects has made them accessible to all. Formerly it was exclusive just for clerics. This has resulted in a decrease of the barriers to joining a religious practice, leading to the parallel increase in religious commercialization as it becomes more widespread.
 
+The commercialization and commodification of religion is not only a modern phenomenon. The medieval Latin church, invented a franchise system for indulgences, a new product that shortened the time spent in purgatory. The pope established a parallel distribution structure involving newly licensed mendicant orders alongside the parochial structure. This resulting competition not only solved the principal-agent problem in respect of agents who were difficult to control when they were far away from Rome, but also maximized the profit for the principal (Schmidtchen/Mayer 1997).
+
 ![The Cheapest Supermarkt Penny.jpeg](https://github.com/ceresdigaproject/economicorsacred1/blob/main/assets/img/The%20Cheapest%20Supermarkt%20Penny.jpeg?raw=true)
 
 
