@@ -68,6 +68,7 @@ Buddha statues are seen as sacred as they have an impact on people and their env
 
 Although this approach seems to put **Buddhist objects** and **things** in the same category, what I am trying to emphasise is that the meaning of the object is defined in the individual. If you are a Buddhist as a true believer, for you a Buddha object in the market is a figure to be respected or treated as sacred from the first moment you see it. However, in terms of commercialisation, it is highly unlikely that buddha objects will only be bought by Buddhists. Because according to 2018 data, only 270,000 (0.33 per cent) official Buddhists live in Germany.
 
+![Statistical Data.jpeg](https://github.com/ceresdigaproject/economicorsacred1/blob/main/assets/img/SOZ_01_13%20Religion_JPG_01.jpg?raw=true)
 
 Buddhism in Germany and Europe is very seldom described as a religion. General portrayals are mainly positive, especially when compared to other religions. The teachings, practices and institutions historically have shown to be easily adoptable and transformable, also in Western and secular contexts. Consumers of media and popular culture are thus engaged with already circulating scripts, master narratives and collectively shared webs of meaning. Such containers of stories, ideas and metaphors are products of circular transformations between East and West, tradition and modernity.
 
