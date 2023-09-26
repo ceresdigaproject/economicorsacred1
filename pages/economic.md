@@ -72,8 +72,9 @@ Although this approach seems to put **Buddhist objects** and **things** in the s
 
 Buddhism in Germany and Europe is very seldom described as a religion. General portrayals are mainly positive, especially when compared to other religions. The teachings, practices and institutions historically have shown to be easily adoptable and transformable, also in Western and secular contexts. Consumers of media and popular culture are thus engaged with already circulating scripts, master narratives and collectively shared webs of meaning. Such containers of stories, ideas and metaphors are products of circular transformations between East and West, tradition and modernity.
 
-
 Generally, people are also more-or-less Buddhists who “believe without belonging, belong without believing, practice without believing or belonging or simply somehow identify as Buddhists without believing, belonging or practicing” (Borup 2016a: 91). It also seems plausible to assume an elective affinity between those who identify themselves as “spiritual, but not religious”, those with no religious affiliation (the group answering ‘no religion’), and people who in some ways are related to or have sympathy with Buddhism. people who are deeply inspired by Buddhism as ‘a way of life’ or as ‘a spiritual path’ would not necessarily call themselves Buddhists.
+
+![Events Related with Spiritualism.jpeg](https://github.com/ceresdigaproject/economicorsacred1/blob/main/assets/img/GOPR1080.JPG?raw=true)
 
 Since Buddhism doesn't have any formal affiliation or system to approve or disapprove of practices, it's simpler to engage in Buddhism-related activities than with other religions. Buddhism has a flexible structure, and you don't immediately get recognised as a Buddhist due to these practices. Meanwhile, Buddhism's image is perceived more favourably compared to abrahamic religions.
 This message is refined by the media and advertising, promoting values like spiritual growth, personal identity, balance, and mindfulness.
