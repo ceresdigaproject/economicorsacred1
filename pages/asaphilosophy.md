@@ -1,5 +1,5 @@
 ---
-title: Short History of Buddhism in Germany
+title: Why is Buddhism seen more as a philosophy?
 layout: about
 permalink: /asaphilosophy.html
 # Look in _includes/feature for options to easily add features to the page
