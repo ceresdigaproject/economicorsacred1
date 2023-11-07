@@ -1,7 +1,7 @@
 ---
 title: Spiritual but Not Religious
 layout: about
-permalink: /sbnr.html
+permalink: /spiritualbutnotreligious.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
