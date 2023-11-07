@@ -20,14 +20,14 @@ source-code: https://ceresdigaproject.github.io/economicorsacred1
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "Economic or Sacred"
+title: "Observing Buddhist Object in Cities"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "Have you ever wondered: Why do you see Buddhas in your daily life?"
+tagline: "Berlin, Bochum, Detmold, Frankfurt"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Burak Celikpence and Stepan Musharov investigated for you! Master's Students of Religious Studies at the Ruhr University went street by street in search of Buddha statues."
+description: "The study concentrates on the rise of their visibility and explores the perception of these objects and the values attached to them."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: "Burak Celikpence and Stepan Musharov"
+author: "Burak Celikpence"
 
 ##########
 # COLLECTION SETTINGS
@@ -41,9 +41,9 @@ metadata: metadata220820233
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
 organization-name: "Center for Religious Studies (CERES) "
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-link: https://https://ceres.rub.de/en/
+organization-logo-banner: https://images.app.goo.gl/CWwfsAK2EJWv1unb9
+organization-logo-nav: https://images.app.goo.gl/CWwfsAK2EJWv1unb9
 
 
 
